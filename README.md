@@ -6,7 +6,7 @@ Junior Digital Engineering Student
 
 * 🌍  I'm based in Pathum thani, Thailand
 * ✉️  You can contact me at [napathsara.pin@gmail.com](mailto:napathsara.pin@gmail.com)
-* 🧠  I'm learning JavaScript and Bootstrap
+* 🧠  I'm learning JavaScript and React
 * 🤝  I'm open to a Summer internship in 2024
 
 ### Skills
