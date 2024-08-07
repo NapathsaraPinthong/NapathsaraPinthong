@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Napathsara Pinthong
 ===========================================================================================================================================
 
-Junior Digital Engineering Student
+Senior Digital Engineering Student
 ----------------------------------
 
 * 🌍  I'm based in Pathum thani, Thailand
 * ✉️  You can contact me at [napathsara.pin@gmail.com](mailto:napathsara.pin@gmail.com)
-* 🧠  I'm learning JavaScript and React
-* 🤝  I'm open to a Summer internship in 2024
 
 ### Skills
 
